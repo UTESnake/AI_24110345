@@ -1,118 +1,149 @@
-# 0 = Sạch | 1 = Bẩn | 2 = Vật cản | -1 = Chưa biết (bộ nhớ)
+# ============================================================
+# MODEL-BASED REFLECT AGENT - MÁY HÚT BỤI
+# Theo pseudocode: UPDATE_STATE -> RULE_MATCH -> ACTION
+# ============================================================
+# 0 = Sach | 1 = Ban | -1 = Chua biet (bo nho)
 
 real_world = [
-    [0, 1, 0],
-    [1, 2, 0],
-    [0, 0, 1]
+    [1, 0, 0],
+    [0, 0, 0],
+    [0, 1, 1]
 ]
 
-agent_memory = [
-    [-1, -1, -1],
-    [-1, -1, -1],
-    [-1, -1, -1]
-]
+# ---- PERSISTENT (bo nho agent giu giua cac buoc) ----
+state  = [[-1,-1,-1],[-1,-1,-1],[-1,-1,-1]]  # trang thai moi truong
+model  = []   # lich su (vi_tri, hanh_dong) da thuc hien
+action = None # hanh dong truoc do
 
-# Vị trí ban đầu
-x = 2
-y = 2
+# ---- TAP LUAT (rules) ----
+# Rule 1: state_value = 1  ->  action = SUCK,  state_value = 0
+# Rule 2: state_value = 0  ->  action = possible_move(x, y)
 
-step = 0
-sucked = 0
+def possible_move(x, y, m, n):
+    """Tra ve danh sach huong co the di (khong ra ngoai luoi)"""
+    moves = []
+    if x > 0:     moves.append("up")
+    if x < m - 1: moves.append("down")
+    if y > 0:     moves.append("left")
+    if y < n - 1: moves.append("right")
+    return moves
 
-def in_luoi(grid, agent_x, agent_y):
-    for r in range(3):
+def rule_match(state_value, x, y, m, n):
+    """
+    RULE_MATCH: khop trang thai voi tap luat, tra ve action
+    Rule 1: Ban -> SUCK
+    Rule 2: Sach -> chon huong di tu possible_move
+    """
+    if state_value == 1:
+        return "SUCK"
+    if state_value == 0:
+        moves = possible_move(x, y, m, n)
+        if len(moves) == 0:
+            return "STOP"
+        # Uu tien o chua tham
+        for move in moves:
+            nx, ny = x, y
+            if move == "up":    nx = x - 1
+            if move == "down":  nx = x + 1
+            if move == "left":  ny = y - 1
+            if move == "right": ny = y + 1
+            if state[nx][ny] == -1:
+                return move
+        # Khong co o moi -> di o dau tien con lai
+        return moves[0]
+    return "STOP"
+
+def update_state(state, x, y, action, percept, model):
+    """
+    UPDATE_STATE: cap nhat bo nho dua vao
+    - action: hanh dong vua thuc hien
+    - percept: cam bien hien tai
+    - model: lich su vi tri & hanh dong
+    """
+    state[x][y] = percept
+    model.append((x, y, action))
+    return state
+
+def in_luoi(grid, ax, ay, title):
+    print(f"  {title}:")
+    for r in range(len(grid)):
         hang = []
-        for c in range(3):
-            if r == agent_x and c == agent_y:
+        for c in range(len(grid[r])):
+            if r == ax and c == ay:
                 hang.append("A")
             else:
                 hang.append(str(grid[r][c]))
-        print("  " + str(hang))
+        print("  ", hang)
 
-print("(0=Sach, 1=Ban, 2=Vat can, A=Agent, -1=Chua biet)\n")
-print("Môi trường ban đầu:")
-in_luoi(real_world, x, y)
+# ============================================================
+# CHAY THUAT TOAN
+# ============================================================
+m = len(real_world)
+n = len(real_world[0])
 
-while step < 20:
-    step = step + 1
-    print(f"\n--- Bước {step} | Agent tại ({x},{y}) ---")
+x, y = 2, 2   # vi tri bat dau
+step  = 0
+sucked = 0
+dung  = False
 
-    current = real_world[x][y]
-    print(f"  Cảm biến: {current}")
+print("=== BAT DAU MO PHONG ===")
+print("(0=Sach, 1=Ban, A=Agent, -1=Chua biet)\n")
+print("Moi truong ban dau:")
+in_luoi(real_world, x, y, "real_world")
 
-    agent_memory[x][y] = current
+while not dung:
+    step += 1
+    print(f"\n========== BUOC {step} ==========")
 
-    # LUAT 1: Gap ban -> Hut
-    if current == 1:
-        print("  -> Hành động: HÚT BỤI")
+    # 1. PERCEPT: doc cam bien
+    percept = real_world[x][y]
+    print(f"  percept ({x},{y}) = {percept}")
+
+    # 2. UPDATE_STATE
+    state = update_state(state, x, y, action, percept, model)
+    print(f"  state_value tai ({x},{y}) = {state[x][y]}")
+
+    # 3. RULE_MATCH -> lay action
+    action = rule_match(state[x][y], x, y, m, n)
+    print(f"  action = {action}")
+
+    # 4. THUC HIEN action
+    if action == "SUCK":
         real_world[x][y] = 0
-        agent_memory[x][y] = 0
-        sucked = sucked + 1
-        print("  Real world:")
-        in_luoi(real_world, x, y)
-        print("  Bộ nhớ:")
-        in_luoi(agent_memory, x, y)
-        continue
+        state[x][y] = 0
+        sucked += 1
+        print(f"  -> HUT BUI tai ({x},{y}), state_value = 0")
 
-    # LUAT 2: Quet 4 huong
-    all_dirs = [
-        ["UP",   x - 1, y    ],
-        ["DOWN", x + 1, y    ],
-        ["LEFT",  x,     y - 1],
-        ["RIGHT",  x,     y + 1]
-    ]
+    elif action == "STOP":
+        print("  -> Bi ket! DUNG.")
+        dung = True
 
-    safe_moves = []
-    unvisited  = []
-
-    for i in range(4):
-        name = all_dirs[i][0]
-        nx   = all_dirs[i][1]
-        ny   = all_dirs[i][2]
-
-        if nx >= 0 and nx < 3 and ny >= 0 and ny < 3:
-            neighbor = real_world[nx][ny]
-            if neighbor == 2:
-                agent_memory[nx][ny] = 2
-            else:
-                safe_moves.append([name, nx, ny])
-                if agent_memory[nx][ny] == -1:
-                    unvisited.append([name, nx, ny])
-
-    # LUAT 3: Chon huong di
-    if len(safe_moves) == 0:
-        print("  -> Bị kẹt! DỪNG.")
-        break
-
-    if len(unvisited) > 0:
-        chosen = unvisited[0]
-        print(f"  -> Di chuyển {chosen[0]} tới ({chosen[1]},{chosen[2]}) [ô mới]")
     else:
-        chosen = safe_moves[0]
-        print(f"  -> Di chuyển {chosen[0]} tới ({chosen[1]},{chosen[2]}) [lùi lại]")
+        # Di chuyen
+        if action == "up":    x = x - 1
+        if action == "down":  x = x + 1
+        if action == "left":  y = y - 1
+        if action == "right": y = y + 1
+        print(f"  -> Di chuyen {action.upper()} toi ({x},{y})")
 
-    x = chosen[1]
-    y = chosen[2]
+    in_luoi(real_world, x, y, "real_world")
+    in_luoi(state,      x, y, "state (bo nho)")
 
-    print("  Real world:")
-    in_luoi(real_world, x, y)
-    print("  Bộ nhớ:")
-    in_luoi(agent_memory, x, y)
-
+    # Kiem tra dieu kien dung: het o ban
     con_ban = False
-    for r in range(3):
-        for c in range(3):
+    for r in range(m):
+        for c in range(n):
             if real_world[r][c] == 1:
                 con_ban = True
 
     if not con_ban:
-        print("\nKhông còn ô bẩn! Hoàn tất.")
-        break
+        print("\n  Khong con o ban! Hoan tat.")
+        dung = True
 
-print("\n=== Tổng kết ===")
-print(f"Tổng số bước : {step}")
-print(f"Số lần hút   : {sucked}")
-print("\nSàn nhà hiện tại:")
-in_luoi(real_world, -1, -1)
-print("\nBộ nhớ agent:")
-in_luoi(agent_memory, -1, -1)
+# ============================================================
+print("\n=== TONG KET ===")
+print(f"Tong buoc : {step}")
+print(f"So lan hut: {sucked}")
+print(f"Lich su model (vi_tri, hanh_dong):")
+for item in model:
+    print(f"  ({item[0]},{item[1]}) -> {item[2]}")
