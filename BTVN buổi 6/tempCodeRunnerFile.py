@@ -1,0 +1,1 @@
+py -3.13 "d:\Trí tuệ nhân tạo\BTVN buổi 6\vacuum_cleaner.py"
