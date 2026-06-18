@@ -57,4 +57,6 @@ Quan hệ láng giềng được xây dựng dưới dạng **graph adjacency li
 
 ---
 
-## 🏗️ Cấu trúc project
+## 🎬 Demo Animation
+
+![Backtracking Demo](7949291645637.gif)
