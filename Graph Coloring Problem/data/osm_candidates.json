@@ -1,0 +1,4353 @@
+[
+  {
+    "type": "relation",
+    "id": 2766949,
+    "center": {
+      "lat": 10.7236808,
+      "lon": 106.7495439
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phú Thuận",
+      "population": "84089",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806086"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 2766950,
+    "center": {
+      "lat": 10.7357264,
+      "lon": 106.7054606
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Hưng",
+      "population": "153674",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10830496"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 2766953,
+    "center": {
+      "lat": 10.7181556,
+      "lon": 106.7250869
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Mỹ",
+      "population": "68124",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806023"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 2766956,
+    "center": {
+      "lat": 10.7576088,
+      "lon": 106.7342928
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Thuận",
+      "population": "148090",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10830818"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 3610160,
+    "center": {
+      "lat": 10.3909143,
+      "lon": 107.1020357
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Rạch Dừa",
+      "population": "76281",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2316485"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 3610162,
+    "center": {
+      "lat": 10.3538299,
+      "lon": 107.0779515
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Vũng Tàu",
+      "population": "117413",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1818274"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 3610170,
+    "center": {
+      "lat": 10.4250294,
+      "lon": 107.164867
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phước Thắng",
+      "population": "52589",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1807173"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 3610360,
+    "center": {
+      "lat": 10.4489753,
+      "lon": 107.0979942
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Long Sơn",
+      "type": "boundary",
+      "wikidata": "Q19946993"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 3616747,
+    "center": {
+      "lat": 10.3686977,
+      "lon": 107.0973646
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tam Thắng",
+      "population": "86420",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2691415"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 3870770,
+    "center": {
+      "lat": 10.8939951,
+      "lon": 106.8044534
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Đông Hòa",
+      "population": "132056",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2643702"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 4132582,
+    "center": {
+      "lat": 10.5069667,
+      "lon": 107.1487996
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Long Hương",
+      "population": "31457",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2790502"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 5485644,
+    "center": {
+      "lat": 10.601818,
+      "lon": 107.0439223
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phú Mỹ",
+      "population": "78641",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2332949"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 5485645,
+    "center": {
+      "lat": 10.5280166,
+      "lon": 107.0571663
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Phước",
+      "population": "29363",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q7862090"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6890889,
+    "center": {
+      "lat": 10.7714801,
+      "lon": 106.6273806
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phú Thạnh",
+      "population": "103780",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806107"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6890890,
+    "center": {
+      "lat": 10.7883612,
+      "lon": 106.6261293
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phú Thọ Hòa",
+      "population": "140436",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806126"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6890891,
+    "center": {
+      "lat": 10.7774383,
+      "lon": 106.6397159
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Phú",
+      "population": "93117",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806141"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6892359,
+    "center": {
+      "lat": 10.8012148,
+      "lon": 106.6240723
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Sơn Nhì",
+      "population": "117277",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10830794"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6892362,
+    "center": {
+      "lat": 10.8139639,
+      "lon": 106.6215883
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tây Thạnh",
+      "population": "72616",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10831085"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6915821,
+    "center": {
+      "lat": 10.7346137,
+      "lon": 106.6110558
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường An Lạc",
+      "population": "172134",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10733223"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6915823,
+    "center": {
+      "lat": 10.8012508,
+      "lon": 106.6066282
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Hưng Hòa",
+      "population": "187950",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10742419"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6915940,
+    "center": {
+      "lat": 10.7930799,
+      "lon": 106.5855112
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Tân",
+      "population": "161851",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10742422"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6915941,
+    "center": {
+      "lat": 10.7686014,
+      "lon": 106.6078759
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Trị Đông",
+      "population": "165142",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10742601"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6915944,
+    "center": {
+      "lat": 10.7437643,
+      "lon": 106.5821547
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Tạo",
+      "population": "113363",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q32229461"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6928030,
+    "center": {
+      "lat": 10.8599165,
+      "lon": 106.6224163
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Trung Mỹ Tây",
+      "population": "126470",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10828345"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6928153,
+    "center": {
+      "lat": 10.8375929,
+      "lon": 106.6231304
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Đông Hưng Thuận",
+      "population": "182895",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10840744"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6928155,
+    "center": {
+      "lat": 10.8734111,
+      "lon": 106.6378529
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Thới Hiệp",
+      "population": "168060",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10830898"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6941014,
+    "center": {
+      "lat": 10.8784701,
+      "lon": 106.6679617
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Thới An",
+      "population": "125657",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10826625"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6941018,
+    "center": {
+      "lat": 10.8671699,
+      "lon": 106.6970138
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường An Phú Đông",
+      "population": "179115",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10733292"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7138136,
+    "center": {
+      "lat": 10.8369844,
+      "lon": 106.7566581
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Thủ Đức",
+      "population": "118952",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10828919"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7138137,
+    "center": {
+      "lat": 10.8466416,
+      "lon": 106.7247391
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Hiệp Bình",
+      "population": "215638",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10767658"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7144243,
+    "center": {
+      "lat": 10.8707708,
+      "lon": 106.732197
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tam Bình",
+      "population": "153414",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q16480476"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7342307,
+    "center": {
+      "lat": 10.8622289,
+      "lon": 106.8293268
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Long Bình",
+      "population": "119637",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q6672390"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7342308,
+    "center": {
+      "lat": 10.8032086,
+      "lon": 106.8440693
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Long Phước",
+      "population": "53092",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10786890"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7342511,
+    "center": {
+      "lat": 10.7932599,
+      "lon": 106.8131877
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Long Trường",
+      "population": "73669",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10786939"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7342567,
+    "center": {
+      "lat": 10.8177624,
+      "lon": 106.7752157
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phước Long",
+      "population": "137331",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806381"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7343271,
+    "center": {
+      "lat": 10.8432954,
+      "lon": 106.7915555
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tăng Nhơn Phú",
+      "population": "208233",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10831357"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7351897,
+    "center": {
+      "lat": 10.7894459,
+      "lon": 106.7324823
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường An Khánh",
+      "population": "76967",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10742354"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7364739,
+    "center": {
+      "lat": 10.7940836,
+      "lon": 106.7613783
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Trưng",
+      "population": "121382",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10742597"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7370760,
+    "center": {
+      "lat": 10.7627537,
+      "lon": 106.7770878
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Cát Lái",
+      "population": "68654",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10751813"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7462674,
+    "center": {
+      "lat": 10.6729929,
+      "lon": 106.5863644
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bình Chánh",
+      "type": "boundary",
+      "wikidata": "Q10742366"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7462675,
+    "center": {
+      "lat": 10.7051474,
+      "lon": 106.6584195
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bình Hưng",
+      "type": "boundary",
+      "wikidata": "Q10742415"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7462676,
+    "center": {
+      "lat": 10.7523092,
+      "lon": 106.518467
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bình Lợi",
+      "type": "boundary",
+      "wikidata": "Q10742460"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7462678,
+    "center": {
+      "lat": 10.6590838,
+      "lon": 106.6457341
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Hưng Long",
+      "type": "boundary",
+      "wikidata": "Q16480946"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7463544,
+    "center": {
+      "lat": 10.7079852,
+      "lon": 106.5679435
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Nhựt",
+      "type": "boundary",
+      "wikidata": "Q10830698"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7463546,
+    "center": {
+      "lat": 10.8378286,
+      "lon": 106.5555128
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Vĩnh Lộc",
+      "type": "boundary",
+      "wikidata": "Q10833610"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7463547,
+    "center": {
+      "lat": 10.7988845,
+      "lon": 106.5473675
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Vĩnh Lộc",
+      "type": "boundary",
+      "wikidata": "Q10807061"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7468177,
+    "center": {
+      "lat": 10.4452407,
+      "lon": 106.925822
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Cần Giờ",
+      "type": "boundary",
+      "wikidata": "Q10752329"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7468178,
+    "center": {
+      "lat": 10.5031964,
+      "lon": 106.8076217
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã An Thới Đông",
+      "type": "boundary",
+      "wikidata": "Q10733354"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7468179,
+    "center": {
+      "lat": 10.5953647,
+      "lon": 106.8375018
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bình Khánh",
+      "type": "boundary",
+      "wikidata": "Q10742427"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7468247,
+    "center": {
+      "lat": 10.5334779,
+      "lon": 106.9729334
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Thạnh An",
+      "type": "boundary",
+      "wikidata": "Q10826236"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7621976,
+    "center": {
+      "lat": 11.1018804,
+      "lon": 106.485562
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã An Nhơn Tây",
+      "type": "boundary",
+      "wikidata": "Q10733261"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7621978,
+    "center": {
+      "lat": 10.9800542,
+      "lon": 106.611667
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bình Mỹ",
+      "type": "boundary",
+      "wikidata": "Q5005103"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7627377,
+    "center": {
+      "lat": 11.0304906,
+      "lon": 106.4969448
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Nhuận Đức",
+      "type": "boundary",
+      "wikidata": "Q10800781"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7627379,
+    "center": {
+      "lat": 10.9887838,
+      "lon": 106.5705286
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phú Hòa Đông",
+      "type": "boundary",
+      "wikidata": "Q10805930"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7629221,
+    "center": {
+      "lat": 10.9702915,
+      "lon": 106.4707633
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân An Hội",
+      "type": "boundary",
+      "wikidata": "Q10830351"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7629287,
+    "center": {
+      "lat": 10.9615592,
+      "lon": 106.5357863
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Củ Chi",
+      "type": "boundary",
+      "wikidata": "Q10830745"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7629288,
+    "center": {
+      "lat": 11.0364208,
+      "lon": 106.4067768
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Thái Mỹ",
+      "type": "boundary",
+      "wikidata": "Q10825743"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7638093,
+    "center": {
+      "lat": 10.8965532,
+      "lon": 106.5925546
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Hóc Môn",
+      "type": "boundary",
+      "wikidata": "Q10771197"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7638094,
+    "center": {
+      "lat": 10.8515028,
+      "lon": 106.5720951
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bà Điểm",
+      "type": "boundary",
+      "wikidata": "Q11839545"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7638095,
+    "center": {
+      "lat": 10.898111,
+      "lon": 106.64541
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Đông Thạnh",
+      "type": "boundary",
+      "wikidata": "Q10840864"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7638253,
+    "center": {
+      "lat": 10.8881781,
+      "lon": 106.5509112
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Xuân Thới Sơn",
+      "type": "boundary",
+      "wikidata": "Q10835117"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7650792,
+    "center": {
+      "lat": 10.6954118,
+      "lon": 106.7261429
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Nhà Bè",
+      "type": "boundary",
+      "wikidata": "Q10800788"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7650793,
+    "center": {
+      "lat": 10.6353557,
+      "lon": 106.7310587
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Hiệp Phước",
+      "type": "boundary",
+      "wikidata": "Q10767683"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8051119,
+    "center": {
+      "lat": 10.5808671,
+      "lon": 107.1252078
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Châu Pha",
+      "type": "boundary",
+      "wikidata": "Q3421396"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8051120,
+    "center": {
+      "lat": 10.5157741,
+      "lon": 107.0968045
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Hải",
+      "population": "30297",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q3352882"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8081287,
+    "center": {
+      "lat": 10.665788,
+      "lon": 107.1193257
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Thành",
+      "population": "33943",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2147855"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8162714,
+    "center": {
+      "lat": 10.7278282,
+      "lon": 107.2194644
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Châu Đức",
+      "type": "boundary",
+      "wikidata": "Q2792853"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8390212,
+    "center": {
+      "lat": 10.9393521,
+      "lon": 106.8326244
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Trấn Biên",
+      "population": "197060",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q135154092"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8392610,
+    "center": {
+      "lat": 10.9457612,
+      "lon": 106.9023826
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Long Bình",
+      "population": "168614",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10786785"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8392612,
+    "center": {
+      "lat": 10.9510191,
+      "lon": 106.8547485
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tam Hiệp",
+      "population": "139441",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2871791"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8392663,
+    "center": {
+      "lat": 11.0108295,
+      "lon": 106.8156983
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Triều",
+      "population": "101608",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q135154145"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8392664,
+    "center": {
+      "lat": 10.9340377,
+      "lon": 106.8012068
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Biên Hòa",
+      "population": "74919",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q136456637"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8392665,
+    "center": {
+      "lat": 11.0013644,
+      "lon": 106.8972083
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Trảng Dài",
+      "population": "104972",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q967815"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8392688,
+    "center": {
+      "lat": 10.8739771,
+      "lon": 106.8679197
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Long Hưng",
+      "population": "74184",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2296463"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8393474,
+    "center": {
+      "lat": 10.8920524,
+      "lon": 106.9199536
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phước Tân",
+      "population": "64181",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2762043"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8393475,
+    "center": {
+      "lat": 10.8633818,
+      "lon": 106.9280373
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tam Phước",
+      "population": "48313",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2202859"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8405612,
+    "center": {
+      "lat": 10.7864253,
+      "lon": 107.143003
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Xuân Đường",
+      "name:ko": "쑤언드엉",
+      "type": "boundary",
+      "wikidata": "Q2537914"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8405614,
+    "center": {
+      "lat": 10.8495182,
+      "lon": 107.142594
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Xuân Quế",
+      "name:ko": "쑤언꾸에",
+      "type": "boundary",
+      "wikidata": "Q2097341"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8405646,
+    "center": {
+      "lat": 10.5427515,
+      "lon": 106.4056631
+    },
+    "tags": {
+      "UArea": "34.90",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Long An",
+      "type": "boundary",
+      "wikidata": "Q134988445"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8427050,
+    "center": {
+      "lat": 10.8713557,
+      "lon": 106.7791744
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Linh Xuân",
+      "population": "158334",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10786316"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8433923,
+    "center": {
+      "lat": 10.5253809,
+      "lon": 106.4250967
+    },
+    "tags": {
+      "UArea": "25.50",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân An",
+      "type": "boundary",
+      "wikidata": "Q134998434"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8433924,
+    "center": {
+      "lat": 10.5180778,
+      "lon": 106.3724048
+    },
+    "tags": {
+      "UArea": "22.81",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Khánh Hậu",
+      "type": "boundary",
+      "wikidata": "Q10779599"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8435467,
+    "center": {
+      "lat": 10.6623991,
+      "lon": 106.4807014
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bến Lức",
+      "type": "boundary",
+      "wikidata": "Q10743437"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8435469,
+    "center": {
+      "lat": 10.6427232,
+      "lon": 106.4291899
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bình Đức",
+      "type": "boundary",
+      "wikidata": "Q10742652"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8436658,
+    "center": {
+      "lat": 10.7008673,
+      "lon": 106.4821006
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Lương Hòa",
+      "type": "boundary",
+      "wikidata": "Q10788327"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8436659,
+    "center": {
+      "lat": 10.6469091,
+      "lon": 106.5298159
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Mỹ Yên",
+      "type": "boundary",
+      "wikidata": "Q10796908"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8436860,
+    "center": {
+      "lat": 10.7412022,
+      "lon": 106.3988077
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Thạnh Lợi",
+      "type": "boundary",
+      "wikidata": "Q10826267"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8437717,
+    "center": {
+      "lat": 10.4877569,
+      "lon": 106.5961056
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Cần Đước",
+      "type": "boundary"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8437718,
+    "center": {
+      "lat": 10.5923048,
+      "lon": 106.5220586
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Long Cang",
+      "type": "boundary",
+      "wikidata": "Q10786793"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8437720,
+    "center": {
+      "lat": 10.6081351,
+      "lon": 106.5736731
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Rạch Kiến",
+      "type": "boundary",
+      "wikidata": "Q136643921"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8437766,
+    "center": {
+      "lat": 10.4766682,
+      "lon": 106.7006392
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Long Hựu",
+      "type": "boundary",
+      "wikidata": "Q136644057"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8437913,
+    "center": {
+      "lat": 10.560413,
+      "lon": 106.574846
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Mỹ Lệ",
+      "type": "boundary",
+      "wikidata": "Q10796784"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8439056,
+    "center": {
+      "lat": 10.5030288,
+      "lon": 106.6326727
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Lân",
+      "type": "boundary",
+      "wikidata": "Q10830603"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8439058,
+    "center": {
+      "lat": 10.6152748,
+      "lon": 106.6840906
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Cần Giuộc",
+      "type": "boundary",
+      "wikidata": "Q10752324"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8439082,
+    "center": {
+      "lat": 10.5943135,
+      "lon": 106.6192224
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Mỹ Lộc",
+      "type": "boundary",
+      "wikidata": "Q10796786"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8445820,
+    "center": {
+      "lat": 10.6316207,
+      "lon": 106.5864586
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phước Lý",
+      "type": "boundary",
+      "wikidata": "Q10806431"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8445867,
+    "center": {
+      "lat": 10.5517966,
+      "lon": 106.669054
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phước Vĩnh Tây",
+      "type": "boundary",
+      "wikidata": "Q10806524"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8445869,
+    "center": {
+      "lat": 10.5438377,
+      "lon": 106.7025694
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Tập",
+      "type": "boundary",
+      "wikidata": "Q10830958"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8447699,
+    "center": {
+      "lat": 10.4733325,
+      "lon": 106.4785254
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tầm Vu",
+      "type": "boundary",
+      "wikidata": "Q10831565"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8447700,
+    "center": {
+      "lat": 10.4229889,
+      "lon": 106.4620101
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã An Lục Long",
+      "type": "boundary",
+      "wikidata": "Q10733242"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8448188,
+    "center": {
+      "lat": 10.9684784,
+      "lon": 106.659532
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Thủ Dầu Một",
+      "population": "88132",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2186928"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8448992,
+    "center": {
+      "lat": 10.9003612,
+      "lon": 106.7643965
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Dĩ An",
+      "population": "227817",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10757487"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8449152,
+    "center": {
+      "lat": 10.4575173,
+      "lon": 106.5386809
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Thuận Mỹ",
+      "type": "boundary",
+      "wikidata": "Q10825460"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8449153,
+    "center": {
+      "lat": 10.4992749,
+      "lon": 106.4435539
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Vĩnh Công",
+      "type": "boundary",
+      "wikidata": "Q10833538"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8449154,
+    "center": {
+      "lat": 10.7905244,
+      "lon": 106.4480652
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Đức Hòa",
+      "type": "boundary",
+      "wikidata": "Q16479971"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8449155,
+    "center": {
+      "lat": 10.9330018,
+      "lon": 106.4010292
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Hậu Nghĩa",
+      "type": "boundary",
+      "wikidata": "Q10771787"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8449156,
+    "center": {
+      "lat": 10.916376,
+      "lon": 106.3434625
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Hiệp Hòa",
+      "type": "boundary",
+      "wikidata": "Q10767672"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9501588,
+    "center": {
+      "lat": 10.9765858,
+      "lon": 106.3163411
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã An Ninh",
+      "type": "boundary",
+      "wikidata": "Q135013744"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9502982,
+    "center": {
+      "lat": 10.9046066,
+      "lon": 106.4709881
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Đức Lập",
+      "type": "boundary",
+      "wikidata": "Q135034544"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9502986,
+    "center": {
+      "lat": 10.8533387,
+      "lon": 106.389444
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Hòa Khánh",
+      "type": "boundary",
+      "wikidata": "Q135041661"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9507785,
+    "center": {
+      "lat": 10.8420296,
+      "lon": 106.4749798
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Mỹ Hạnh",
+      "type": "boundary",
+      "wikidata": "Q136527869"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9602746,
+    "center": {
+      "lat": 10.9228159,
+      "lon": 107.1286241
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Dầu Giây",
+      "type": "boundary",
+      "wikidata": "Q1821337"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9800200,
+    "center": {
+      "lat": 10.8708213,
+      "lon": 106.2517055
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Đông Thành",
+      "type": "boundary",
+      "wikidata": "Q10840854"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9800201,
+    "center": {
+      "lat": 10.8049021,
+      "lon": 106.3074292
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Đức Huệ",
+      "type": "boundary",
+      "wikidata": "Q135034284"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9800207,
+    "center": {
+      "lat": 10.9364588,
+      "lon": 106.2215432
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Mỹ Quý",
+      "type": "boundary",
+      "wikidata": "Q136524831"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9806927,
+    "center": {
+      "lat": 10.7365358,
+      "lon": 106.8946217
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Nhơn Trạch",
+      "type": "boundary",
+      "wikidata": "Q136461760"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10088783,
+    "center": {
+      "lat": 10.3508312,
+      "lon": 106.3777147
+    },
+    "tags": {
+      "UArea": "6.40",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Mỹ Tho",
+      "type": "boundary",
+      "wikidata": "Q135070720",
+      "wikipedia": "vi:Mỹ Tho (phường)"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10088904,
+    "center": {
+      "lat": 10.3769475,
+      "lon": 106.3586992
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Đạo Thạnh",
+      "type": "boundary",
+      "wikidata": "Q10841304"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10088905,
+    "center": {
+      "lat": 10.3695239,
+      "lon": 106.3890421
+    },
+    "tags": {
+      "UArea": "23",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Mỹ Phong",
+      "type": "boundary",
+      "wikidata": "Q10796803"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10088908,
+    "center": {
+      "lat": 10.3403934,
+      "lon": 106.3311532
+    },
+    "tags": {
+      "UArea": "15.20",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Thới Sơn",
+      "type": "boundary",
+      "wikidata": "Q10826649"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10088909,
+    "center": {
+      "lat": 10.3703218,
+      "lon": 106.3281687
+    },
+    "tags": {
+      "UArea": "23.40",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Trung An",
+      "type": "boundary",
+      "wikidata": "Q10828273"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10522419,
+    "center": {
+      "lat": 10.7199478,
+      "lon": 107.0556521
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Long Phước",
+      "type": "boundary"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10522449,
+    "center": {
+      "lat": 10.569214,
+      "lon": 106.4765158
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Nhựt Tảo",
+      "type": "boundary",
+      "wikidata": "Q136595370"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10522450,
+    "center": {
+      "lat": 10.710544,
+      "lon": 106.3053474
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Long",
+      "type": "boundary",
+      "wikidata": "Q86012552"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10590955,
+    "center": {
+      "lat": 11.0184881,
+      "lon": 106.6402879
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Chánh Hiệp",
+      "population": "57176",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2262454"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13253186,
+    "center": {
+      "lat": 11.0327627,
+      "lon": 106.979293
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân An",
+      "type": "boundary",
+      "wikidata": "Q2396841"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13254047,
+    "center": {
+      "lat": 11.2167049,
+      "lon": 107.0484335
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Trị An",
+      "type": "boundary",
+      "wikidata": "Q2350151"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13420411,
+    "center": {
+      "lat": 10.9436589,
+      "lon": 106.7736775
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Đông Hiệp",
+      "population": "100243",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2171406"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13452549,
+    "center": {
+      "lat": 10.6824386,
+      "lon": 107.0692062
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phước Thái",
+      "type": "boundary",
+      "wikidata": "Q2011041"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13452575,
+    "center": {
+      "lat": 10.8351587,
+      "lon": 107.0140348
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bình An",
+      "type": "boundary",
+      "wikidata": "Q2446195"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13452858,
+    "center": {
+      "lat": 10.7825366,
+      "lon": 107.009887
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Long Thành",
+      "type": "boundary",
+      "wikidata": "Q2625196"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13452953,
+    "center": {
+      "lat": 10.8229939,
+      "lon": 106.9268503
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã An Phước",
+      "type": "boundary",
+      "wikidata": "Q2556936"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13453216,
+    "center": {
+      "lat": 10.9680331,
+      "lon": 107.0197186
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Trảng Bom",
+      "type": "boundary",
+      "wikidata": "Q2475554"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13455517,
+    "center": {
+      "lat": 10.9876564,
+      "lon": 106.6764153
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phú Lợi",
+      "population": "107721",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1901452"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13455518,
+    "center": {
+      "lat": 11.0526235,
+      "lon": 106.6881385
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Dương",
+      "population": "107576",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q4825307"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13470501,
+    "center": {
+      "lat": 10.9064535,
+      "lon": 106.6968979
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Lái Thiêu",
+      "population": "118852",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2775019"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13470503,
+    "center": {
+      "lat": 10.9038662,
+      "lon": 106.718355
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Hòa",
+      "population": "120035",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2945269"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13470504,
+    "center": {
+      "lat": 10.9594008,
+      "lon": 106.7347248
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường An Phú",
+      "population": "162930",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2754089"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13470506,
+    "center": {
+      "lat": 10.9621763,
+      "lon": 106.7083507
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Thuận Giao",
+      "population": "150781",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2292486"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13470588,
+    "center": {
+      "lat": 10.9422028,
+      "lon": 106.6787497
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Thuận An",
+      "population": "64689",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2275816"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13470837,
+    "center": {
+      "lat": 10.7036621,
+      "lon": 106.807349
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Đại Phước",
+      "type": "boundary",
+      "wikidata": "Q2049790"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13470865,
+    "center": {
+      "lat": 10.6554778,
+      "lon": 106.9171104
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phước An",
+      "type": "boundary",
+      "wikidata": "Q2662253"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13473319,
+    "center": {
+      "lat": 11.0164475,
+      "lon": 107.164684
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Gia Kiệm",
+      "type": "boundary",
+      "wikidata": "Q2023472"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13474219,
+    "center": {
+      "lat": 10.9080019,
+      "lon": 107.0097458
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã An Viễn",
+      "type": "boundary",
+      "wikidata": "Q2189114"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13474381,
+    "center": {
+      "lat": 10.9640929,
+      "lon": 106.9278982
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Hố Nai",
+      "population": "78902",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10771929"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13474383,
+    "center": {
+      "lat": 10.9668991,
+      "lon": 106.9753096
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bình Minh",
+      "type": "boundary",
+      "wikidata": "Q10742473"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13474919,
+    "center": {
+      "lat": 11.0263656,
+      "lon": 107.0841374
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bàu Hàm",
+      "type": "boundary",
+      "wikidata": "Q1997553"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13475043,
+    "center": {
+      "lat": 10.9317888,
+      "lon": 107.0642156
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Hưng Thịnh",
+      "type": "boundary",
+      "wikidata": "Q2701405"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477425,
+    "center": {
+      "lat": 11.0914018,
+      "lon": 106.8182424
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Uyên",
+      "population": "73032",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1836744"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477540,
+    "center": {
+      "lat": 10.9993284,
+      "lon": 106.7497328
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Khánh",
+      "population": "126393",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2405056"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477543,
+    "center": {
+      "lat": 11.1378801,
+      "lon": 106.7205826
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Vĩnh Tân",
+      "population": "61865",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2669692"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477544,
+    "center": {
+      "lat": 11.1525978,
+      "lon": 106.7753062
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Cơ",
+      "population": "64601",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q4328795"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477545,
+    "center": {
+      "lat": 11.0618483,
+      "lon": 106.7457922
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Hiệp",
+      "population": "142494",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1884549"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477595,
+    "center": {
+      "lat": 11.0485349,
+      "lon": 106.6019769
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phú An",
+      "population": "46142",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2429414"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477596,
+    "center": {
+      "lat": 11.1318747,
+      "lon": 106.5014741
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tây Nam",
+      "population": "56784",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2195007"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477612,
+    "center": {
+      "lat": 11.0830025,
+      "lon": 106.6490896
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Hòa Lợi",
+      "population": "79694",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q3153736"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477632,
+    "center": {
+      "lat": 11.1883084,
+      "lon": 106.6715595
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Chánh Phú Hòa",
+      "population": "53916",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2693355"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477633,
+    "center": {
+      "lat": 11.2043223,
+      "lon": 106.6316765
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bến Cát",
+      "population": "97928",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q4847041"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477634,
+    "center": {
+      "lat": 11.1036053,
+      "lon": 106.6204365
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Thới Hòa",
+      "population": "79601",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1907617"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13477646,
+    "center": {
+      "lat": 11.0264826,
+      "lon": 106.3253987
+    },
+    "tags": {
+      "UArea": "36.97",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Trảng Bàng",
+      "type": "boundary",
+      "wikidata": "Q16481455",
+      "wikipedia": "vi:Trảng Bàng (phường)"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13483630,
+    "center": {
+      "lat": 10.4249052,
+      "lon": 106.6635231
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Sơn Qui",
+      "type": "boundary",
+      "wikidata": "Q136654123"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13483631,
+    "center": {
+      "lat": 10.3623668,
+      "lon": 106.6926238
+    },
+    "tags": {
+      "UArea": "8.30",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Long Thuận",
+      "type": "boundary",
+      "wikidata": "Q10786906"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13483778,
+    "center": {
+      "lat": 10.3538309,
+      "lon": 106.6717903
+    },
+    "tags": {
+      "UArea": "10.10",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Gò Công",
+      "name:vi": "Gò Công",
+      "type": "boundary",
+      "wikidata": "Q135932657",
+      "wikipedia": "vi:Gò Công (phường)"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13483786,
+    "center": {
+      "lat": 10.4032711,
+      "lon": 106.6267242
+    },
+    "tags": {
+      "UArea": "34.40",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Xuân",
+      "type": "boundary",
+      "wikidata": "Q10742622"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13533977,
+    "center": {
+      "lat": 10.5798325,
+      "lon": 106.3349022
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Mỹ An",
+      "type": "boundary",
+      "wikidata": "Q10796689"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13534020,
+    "center": {
+      "lat": 10.637062,
+      "lon": 106.3505281
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Mỹ Thạnh",
+      "type": "boundary",
+      "wikidata": "Q10796862"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13534034,
+    "center": {
+      "lat": 10.6162185,
+      "lon": 106.40311
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Thủ Thừa",
+      "type": "boundary",
+      "wikidata": "Q10826734"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13534112,
+    "center": {
+      "lat": 10.5247069,
+      "lon": 106.4970354
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Trụ",
+      "type": "boundary",
+      "wikidata": "Q10830948"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13534131,
+    "center": {
+      "lat": 10.5066868,
+      "lon": 106.5366083
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Vàm Cỏ",
+      "type": "boundary",
+      "wikidata": "Q136598404"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13568534,
+    "center": {
+      "lat": 10.4211824,
+      "lon": 106.7624474
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Gia Thuận",
+      "type": "boundary",
+      "wikidata": "Q10761383"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13568695,
+    "center": {
+      "lat": 10.4292731,
+      "lon": 106.7179496
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Đông",
+      "type": "boundary",
+      "wikidata": "Q10831001"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13568838,
+    "center": {
+      "lat": 10.3458945,
+      "lon": 106.7482014
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Điền",
+      "type": "boundary",
+      "wikidata": "Q10830996"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13568839,
+    "center": {
+      "lat": 10.2998568,
+      "lon": 106.7474927
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Gò Công Đông",
+      "name:vi": "Gò Công Đông",
+      "type": "boundary",
+      "wikidata": "Q136654830",
+      "wikipedia": "vi:Gò Công Đông (xã)"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13569150,
+    "center": {
+      "lat": 10.3173034,
+      "lon": 106.6996482
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Hòa",
+      "type": "boundary",
+      "wikidata": "Q10830464"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14473420,
+    "center": {
+      "lat": 11.1486912,
+      "lon": 107.2023113
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã La Ngà",
+      "type": "boundary",
+      "wikidata": "Q2485240"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14474938,
+    "center": {
+      "lat": 11.1073035,
+      "lon": 107.1864587
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Thống Nhất",
+      "type": "boundary",
+      "wikidata": "Q136460936"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14663931,
+    "center": {
+      "lat": 10.2733654,
+      "lon": 106.5762931
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Thới",
+      "type": "boundary",
+      "wikidata": "Q10830897"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14681507,
+    "center": {
+      "lat": 10.3951072,
+      "lon": 106.5647048
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Đồng Sơn",
+      "type": "boundary",
+      "wikidata": "Q10841996"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14681509,
+    "center": {
+      "lat": 10.3771298,
+      "lon": 106.6141525
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phú Thành",
+      "type": "boundary",
+      "wikidata": "Q136653445"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14681647,
+    "center": {
+      "lat": 10.3475094,
+      "lon": 106.5712503
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Vĩnh Bình",
+      "name:vi": "Vĩnh Bình",
+      "type": "boundary",
+      "wikidata": "Q10833521",
+      "wikipedia": "vi:Vĩnh Bình, Gò Công Tây"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14681649,
+    "center": {
+      "lat": 10.3121809,
+      "lon": 106.5804421
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Vĩnh Hựu",
+      "type": "boundary",
+      "wikidata": "Q10833581"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14681651,
+    "center": {
+      "lat": 10.3083904,
+      "lon": 106.6472894
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Long Bình",
+      "type": "boundary",
+      "wikidata": "Q10786787"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14727692,
+    "center": {
+      "lat": 10.6322608,
+      "lon": 106.2663869
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Tây",
+      "type": "boundary",
+      "wikidata": "Q10830954"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14728096,
+    "center": {
+      "lat": 10.4734353,
+      "lon": 106.2527118
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Phước 3",
+      "type": "boundary",
+      "wikidata": "Q136655347"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14728101,
+    "center": {
+      "lat": 10.5280562,
+      "lon": 106.2893194
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Hưng Thạnh",
+      "type": "boundary",
+      "wikidata": "Q10771403"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14728103,
+    "center": {
+      "lat": 10.5253987,
+      "lon": 106.2423495
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Phước 1",
+      "type": "boundary",
+      "wikidata": "Q136655262"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14728586,
+    "center": {
+      "lat": 10.3676416,
+      "lon": 106.4424782
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Chợ Gạo",
+      "name:vi": "Chợ Gạo",
+      "type": "boundary",
+      "wikidata": "Q10748772",
+      "wikipedia": "vi:Chợ Gạo"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14736643,
+    "center": {
+      "lat": 10.3230067,
+      "lon": 106.4764971
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bình Ninh",
+      "type": "boundary",
+      "wikidata": "Q10742507"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14736644,
+    "center": {
+      "lat": 10.3675714,
+      "lon": 106.5081409
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã An Thạnh Thủy",
+      "type": "boundary",
+      "wikidata": "Q10733337"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14736648,
+    "center": {
+      "lat": 10.3918334,
+      "lon": 106.4723311
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Thuận Bình",
+      "type": "boundary",
+      "wikidata": "Q10830811"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14741360,
+    "center": {
+      "lat": 10.420121,
+      "lon": 106.3856296
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Lương Hòa Lạc",
+      "type": "boundary",
+      "wikidata": "Q10788332"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14743456,
+    "center": {
+      "lat": 10.4588647,
+      "lon": 106.3998419
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Mỹ Tịnh An",
+      "type": "boundary",
+      "wikidata": "Q10796900"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14743997,
+    "center": {
+      "lat": 10.4855405,
+      "lon": 106.3441067
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Tân Hương",
+      "type": "boundary",
+      "wikidata": "Q10830515",
+      "wikipedia": "vi:Tân Hương, Đồng Tháp"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14744000,
+    "center": {
+      "lat": 10.4342093,
+      "lon": 106.3379088
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Châu Thành",
+      "type": "boundary",
+      "wikidata": "Q136648958",
+      "wikipedia": "vi:Châu Thành, Đồng Tháp"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14744133,
+    "center": {
+      "lat": 10.3410158,
+      "lon": 106.2659345
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Kim Sơn",
+      "type": "boundary",
+      "wikidata": "Q10779960"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14744137,
+    "center": {
+      "lat": 10.395468,
+      "lon": 106.2904529
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Long Hưng",
+      "type": "boundary",
+      "wikidata": "Q10786830"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14929839,
+    "center": {
+      "lat": 11.0980401,
+      "lon": 106.3426338
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Gia Lộc",
+      "type": "boundary",
+      "wikidata": "Q10761355",
+      "wikipedia": "vi:Gia Lộc (phường)"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14929840,
+    "center": {
+      "lat": 11.061442,
+      "lon": 106.3865148
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường An Tịnh",
+      "type": "boundary",
+      "wikidata": "Q10733380",
+      "wikipedia": "vi:An Tịnh"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 14929860,
+    "center": {
+      "lat": 11.1652489,
+      "lon": 106.3872423
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Hưng Thuận",
+      "type": "boundary",
+      "wikidata": "Q10771393"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15044266,
+    "center": {
+      "lat": 11.273214,
+      "lon": 106.6259094
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bàu Bàng",
+      "type": "boundary",
+      "wikidata": "Q2754544"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15044270,
+    "center": {
+      "lat": 11.1679902,
+      "lon": 106.5508513
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Long Nguyên",
+      "population": "53387",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2489303"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15071230,
+    "center": {
+      "lat": 11.1711606,
+      "lon": 106.8655535
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Bắc Tân Uyên",
+      "type": "boundary",
+      "wikidata": "Q2379951"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15071235,
+    "center": {
+      "lat": 11.1048502,
+      "lon": 106.9019219
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Thường Tân",
+      "type": "boundary",
+      "wikidata": "Q4618057"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15328437,
+    "center": {
+      "lat": 11.3275013,
+      "lon": 106.5120265
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Long Hòa",
+      "type": "boundary",
+      "wikidata": "Q2072510"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15328440,
+    "center": {
+      "lat": 11.3307578,
+      "lon": 106.3999796
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Dầu Tiếng",
+      "type": "boundary",
+      "wikidata": "Q1905713"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15328441,
+    "center": {
+      "lat": 11.2479355,
+      "lon": 106.4449156
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Thanh An",
+      "type": "boundary",
+      "wikidata": "Q2501864"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15350008,
+    "center": {
+      "lat": 11.2535495,
+      "lon": 106.7793705
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phước Hòa",
+      "type": "boundary",
+      "wikidata": "Q2289774"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15350010,
+    "center": {
+      "lat": 11.3259861,
+      "lon": 106.6921386
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã An Long",
+      "type": "boundary",
+      "wikidata": "Q2690544"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15350067,
+    "center": {
+      "lat": 11.3071308,
+      "lon": 106.8642415
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phú Giáo",
+      "type": "boundary",
+      "wikidata": "Q2517889"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15506733,
+    "center": {
+      "lat": 10.2719047,
+      "lon": 106.3446656
+    },
+    "tags": {
+      "UArea": "23.48",
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Sơn Đông",
+      "type": "boundary",
+      "wikidata": "Q10823455"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15618456,
+    "center": {
+      "lat": 10.2947718,
+      "lon": 106.3147364
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phú Túc",
+      "type": "boundary",
+      "wikidata": "Q10806155"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15618463,
+    "center": {
+      "lat": 10.3016996,
+      "lon": 106.4048336
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Giao Long",
+      "type": "boundary",
+      "wikidata": "Q10761479"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15786165,
+    "center": {
+      "lat": 10.2797963,
+      "lon": 106.4901564
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phú Thuận",
+      "type": "boundary",
+      "wikidata": "Q10806080"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15789752,
+    "center": {
+      "lat": 11.0731071,
+      "lon": 106.2980599
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Gò Dầu",
+      "type": "boundary",
+      "wikidata": "Q10763510",
+      "wikipedia": "vi:Gò Dầu"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15789753,
+    "center": {
+      "lat": 11.1499053,
+      "lon": 106.2682296
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Phước Thạnh",
+      "type": "boundary"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15793137,
+    "center": {
+      "lat": 11.2034354,
+      "lon": 106.2934146
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Truông Mít",
+      "type": "boundary",
+      "wikidata": "Q10828488"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 15793138,
+    "center": {
+      "lat": 11.2803753,
+      "lon": 106.3160863
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Xã Lộc Ninh",
+      "type": "boundary",
+      "wikidata": "Q10788776"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260502,
+    "center": {
+      "lat": 10.7609413,
+      "lon": 106.6899425
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Cầu Ông Lãnh",
+      "population": "78734",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10752443"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260503,
+    "center": {
+      "lat": 10.7714316,
+      "lon": 106.6936331
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bến Thành",
+      "population": "71785",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10743447"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260504,
+    "center": {
+      "lat": 10.7799595,
+      "lon": 106.7051016
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Sài Gòn",
+      "population": "47022",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q135026770"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260505,
+    "center": {
+      "lat": 10.7908166,
+      "lon": 106.6942174
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Định",
+      "population": "48524",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q32229505"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260545,
+    "center": {
+      "lat": 10.7846026,
+      "lon": 106.674411
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Nhiêu Lộc",
+      "population": "88090",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1916927"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260546,
+    "center": {
+      "lat": 10.7830643,
+      "lon": 106.6897128
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Xuân Hòa",
+      "population": "48464",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2283913"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260547,
+    "center": {
+      "lat": 10.7710676,
+      "lon": 106.681947
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bàn Cờ",
+      "population": "67616",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2744976"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260588,
+    "center": {
+      "lat": 10.7610967,
+      "lon": 106.7117439
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Xóm Chiếu",
+      "population": "57875",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2121077"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260589,
+    "center": {
+      "lat": 10.7588844,
+      "lon": 106.7040372
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Khánh Hội",
+      "population": "94507",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2792874"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260590,
+    "center": {
+      "lat": 10.7566241,
+      "lon": 106.696245
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Vĩnh Hội",
+      "population": "63015",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806670"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260681,
+    "center": {
+      "lat": 10.7526889,
+      "lon": 106.6587797
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Chợ Lớn",
+      "population": "85066",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q4457035"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260682,
+    "center": {
+      "lat": 10.7549862,
+      "lon": 106.6714259
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường An Đông",
+      "name:th": "แขวงอานดง",
+      "population": "81229",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2157387"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260683,
+    "center": {
+      "lat": 10.7582638,
+      "lon": 106.6811671
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Chợ Quán",
+      "population": "63545",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2684478"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260733,
+    "center": {
+      "lat": 10.7378506,
+      "lon": 106.6301263
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Phú",
+      "population": "75925",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2157911"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260734,
+    "center": {
+      "lat": 10.753573,
+      "lon": 106.6314589
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phú Lâm",
+      "population": "87513",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2546162"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260735,
+    "center": {
+      "lat": 10.750678,
+      "lon": 106.6452879
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Tây",
+      "population": "63293",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q4616848"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260736,
+    "center": {
+      "lat": 10.7411999,
+      "lon": 106.6445005
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Tiên",
+      "population": "91520",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2581751"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260758,
+    "center": {
+      "lat": 10.7586234,
+      "lon": 106.6484553
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Minh Phụng",
+      "population": "90808",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q4774836"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260759,
+    "center": {
+      "lat": 10.7636892,
+      "lon": 106.6427374
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Thới",
+      "population": "76478",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2189978"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260760,
+    "center": {
+      "lat": 10.770286,
+      "lon": 106.6448329
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Hòa Bình",
+      "population": "69318",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806760"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260761,
+    "center": {
+      "lat": 10.7686775,
+      "lon": 106.6532512
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phú Thọ",
+      "population": "65369",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2595940"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260769,
+    "center": {
+      "lat": 10.7773156,
+      "lon": 106.6702736
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Hòa Hưng",
+      "population": "96414",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2179494"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260770,
+    "center": {
+      "lat": 10.7688402,
+      "lon": 106.6749545
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Vườn Lài",
+      "population": "104076",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2197243"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260771,
+    "center": {
+      "lat": 10.7695985,
+      "lon": 106.6625281
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Diên Hồng",
+      "population": "75633",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q4614604"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260925,
+    "center": {
+      "lat": 10.7422522,
+      "lon": 106.6770848
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Chánh Hưng",
+      "population": "190707",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2519382"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260926,
+    "center": {
+      "lat": 10.7282344,
+      "lon": 106.6369923
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phú Định",
+      "population": "150389",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2422871"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260927,
+    "center": {
+      "lat": 10.7163792,
+      "lon": 106.6301453
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Đông",
+      "population": "155555",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2135306"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260953,
+    "center": {
+      "lat": 10.8222069,
+      "lon": 106.6986276
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Lợi Trung",
+      "population": "116121",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1845095"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260954,
+    "center": {
+      "lat": 10.8117913,
+      "lon": 106.7062442
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Thạnh",
+      "population": "126300",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2467034"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260955,
+    "center": {
+      "lat": 10.801419,
+      "lon": 106.6992154
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Gia Định",
+      "population": "125946",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2097211"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260956,
+    "center": {
+      "lat": 10.7998476,
+      "lon": 106.7168196
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Thạnh Mỹ Tây",
+      "population": "153216",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1907052"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19260957,
+    "center": {
+      "lat": 10.8219239,
+      "lon": 106.7328669
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bình Quới",
+      "population": "46200",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2513960"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261092,
+    "center": {
+      "lat": 10.8363432,
+      "lon": 106.6888256
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường An Nhơn",
+      "population": "114498",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806780"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261093,
+    "center": {
+      "lat": 10.8222282,
+      "lon": 106.6834401
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Hạnh Thông",
+      "population": "128865",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1987998"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261094,
+    "center": {
+      "lat": 10.8391268,
+      "lon": 106.6728562
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Gò Vấp",
+      "population": "110850",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q4384696"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261095,
+    "center": {
+      "lat": 10.8496441,
+      "lon": 106.6662822
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường An Hội Đông",
+      "name:th": "แขวงอานโห่ยดง",
+      "population": "123681",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2028726"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261096,
+    "center": {
+      "lat": 10.8410553,
+      "lon": 106.6527211
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Thông Tây Hội",
+      "population": "121192",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q1922187"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261097,
+    "center": {
+      "lat": 10.8444957,
+      "lon": 106.64456
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường An Hội Tây",
+      "population": "121004",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2291390"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261233,
+    "center": {
+      "lat": 10.7795475,
+      "lon": 106.6563339
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Hòa",
+      "population": "93437",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2467139"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261234,
+    "center": {
+      "lat": 10.8051413,
+      "lon": 106.6676503
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Sơn Hòa",
+      "population": "64150",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2202269"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261235,
+    "center": {
+      "lat": 10.8009343,
+      "lon": 106.6592714
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Sơn Nhất",
+      "population": "84639",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2028754"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261236,
+    "center": {
+      "lat": 10.7931158,
+      "lon": 106.6485522
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Bảy Hiền",
+      "population": "132252",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2782210"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261237,
+    "center": {
+      "lat": 10.7998857,
+      "lon": 106.6404371
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Bình",
+      "population": "89373",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2504172"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261238,
+    "center": {
+      "lat": 10.8217617,
+      "lon": 106.6532484
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Tân Sơn",
+      "population": "77229",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806649"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261674,
+    "center": {
+      "lat": 10.7940476,
+      "lon": 106.676056
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Phú Nhuận",
+      "population": "68420",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q2040133"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261675,
+    "center": {
+      "lat": 10.7982449,
+      "lon": 106.6850201
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Cầu Kiệu",
+      "population": "62663",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806666"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19261676,
+    "center": {
+      "lat": 10.8066554,
+      "lon": 106.6779262
+    },
+    "tags": {
+      "admin_level": "6",
+      "boundary": "administrative",
+      "name": "Phường Đức Nhuận",
+      "population": "71495",
+      "population:date": "2025-07-01",
+      "source:population": "gis.vn",
+      "type": "boundary",
+      "wikidata": "Q10806732"
+    }
+  }
+]
